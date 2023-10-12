@@ -1,0 +1,166 @@
+@charset "utf-8";
+:root{
+    --color-primary: #ed4b1b; 
+    --color-secondary: #ff9a3c;
+    --color-black: #000;
+    --color-white: #fff;
+    
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+
+body {
+    background: #eaeaea; 
+    
+}
+
+main{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+    list-style: none;
+    
+}
+
+nav a {
+    color: var(--color-black);
+    font-weight: 500;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    align-items: center;
+    text-align: center;
+    gap: 10rem;
+}
+.navbar a{
+    font-size: 18px;
+    color: #222;
+    text-decoration: none;
+    font-weight: 500;
+    margin: 0 20px;
+    transition: .3s;
+
+}
+
+.navbar a:hover{
+    color: #FF6600;
+}
+
+.logo  {
+    font-size: 25px;
+    color: #FF6600;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+main.cards {
+    display: flex;
+    padding: 32px;
+   
+
+}
+
+main.cards section.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: var(--color-white);
+    padding: 1rem 0.5rem;
+    border-radius: 8px;
+    max-height: 256px;
+    margin-left: 32px;
+}
+
+main.cards section.card:first-child{
+    margin-left: 0;
+}
+
+
+
+
+main.cards section.card .icon{
+    width: 64px;
+    height: 64px;
+}
+
+main.cards section.card img {
+    width: 100%;    
+
+}
+
+main.cards section.card h3{
+    margin: 16px 0;
+
+}
+
+main.cards section.card span{
+    font-weight: 500;
+    max-width: 375px;
+    font-size: 80%;
+    margin-bottom: 16px;
+
+}
+
+main.cards section.card input{
+    display: inline-block;
+    padding: 10px 28px;
+    background: var(--color-primary) ;
+    border: 2px solid var(--color-primary);
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    font-size: 16px;
+    color: #eaeaea;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+    
+
+}
+
+main.cards section.card  a input{
+    color: #eaeaea;
+    text-decoration: none;
+}
+
+main.cards section.card input:hover {
+    background: transparent;
+    color: var(--color-primary);
+
+}
+
+
+main.cards section.card.programacao{
+    box-shadow: 20px 20px 50px -30px var(--color-primary);
+}
+
+main.cards section.card.sistema{
+    box-shadow: 20px 20px 50px -30px var(--color-primary);
+}
+
+main.cards section.card.js{
+    box-shadow: 20px 20px 50px -30px var(--color-primary);
+}
+
+
