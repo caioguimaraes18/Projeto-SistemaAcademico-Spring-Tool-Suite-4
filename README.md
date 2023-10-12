@@ -2,6 +2,10 @@
 
 O Sistema Acadêmico é uma plataforma web abrangente que simplifica a gestão acadêmica para alunos e professores. Com funcionalidades que vão desde visualização de aulas até inclusão de notas, o sistema proporciona uma experiência intuitiva e eficaz.
 
+
+![Texto alternativo]()
+
+
 ### Funcionalidades Principais
 ### Alunos:
 
