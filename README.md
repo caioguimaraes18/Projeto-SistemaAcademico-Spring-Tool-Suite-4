@@ -6,7 +6,7 @@ O Sistema Acadêmico é uma plataforma web abrangente que simplifica a gestão a
 ![Texto alternativo](ProjetoImg.png)
 
 
-### Funcionalidades Principais
+### Funcionalidades Principais 🚨
 ### Alunos:
 
 - Visualize a lista completa de aulas disponíveis, juntamente com informações detalhadas.
@@ -21,12 +21,12 @@ O Sistema Acadêmico é uma plataforma web abrangente que simplifica a gestão a
 ## Tecnologias Utilizadas🖥️
 O Sistema Acadêmico foi desenvolvido utilizando as seguintes tecnologias:
 
-IDE: Spring Tool Suite 4 para facilitar o desenvolvimento e a gestão do projeto.
+- IDE: Spring Tool Suite 4 para facilitar o desenvolvimento e a gestão do projeto.
 
 Linguagens:
 
-Java: Utilizado para a lógica de programação e funcionalidades do sistema.
-HTML e CSS: Responsáveis pela construção da interface do usuário, garantindo uma experiência amigável e intuitiva.
+- Java: Utilizado para a lógica de programação e funcionalidades do sistema.
+- HTML e CSS: Responsáveis pela construção da interface do usuário, garantindo uma experiência amigável e intuitiva.
 Para rodar o projeto em seu ambiente local, siga os passos abaixo:
 
 ### Pré-requisitos:
