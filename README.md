@@ -59,4 +59,4 @@ Submeta um pull request para revisão.
 E-mail: contatocaioguimaraess@gmail.com
 
 
-![Texto alternativo](Notas.png)
+![Texto alternativo](Notas.jpeg)
