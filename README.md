@@ -57,6 +57,3 @@ Submeta um pull request para revisão.
 ##  Contato ☎️
 
 E-mail: contatocaioguimaraess@gmail.com
-
-## Nota para avaliação academica 
-![Texto alternativo](Notas.jpeg)
